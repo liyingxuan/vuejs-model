@@ -11,7 +11,7 @@ module.exports = {
 	// use the full build with in-browser compiler?
 
 	// https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only
-	compiler: false,
+	// compiler: false,
 
 	// webpack配置
 
@@ -25,7 +25,7 @@ module.exports = {
 	// vue-loader 配置项
 
 	// https://vue-loader.vuejs.org/en/options.html
-	vueLoader: {},
+	// vueLoader: {},
 
 	// 生产环境是否生成 sourceMap 文件
 	productionSourceMap: true,
@@ -55,7 +55,7 @@ module.exports = {
 	// 是否启用dll
 
 	// See https://github.com/vuejs/vue-cli/blob/dev/docs/cli-service.md#dll-mode
-	dll: false,
+	// dll: false,
 
 	// PWA 插件相关配置
 

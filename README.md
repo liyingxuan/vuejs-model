@@ -4,8 +4,6 @@
 
 #### 使用vue/cli 3.x
 ```bash
-npm install -g @vue/cli
-# OR
 yarn global add @vue/cli
 ```
 
